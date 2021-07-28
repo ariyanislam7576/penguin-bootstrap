@@ -1,0 +1,29 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+
+/* common styles  */
+
+
+h1{
+    font-weight: 700;
+    line-height: 80px;
+    font-size: 80px;
+}
+h2{
+    font-weight: 700;
+}
+p{
+    font-weight: 300;
+}
+span{
+    color: #FABE4C;
+}
+
+/* header  */
+.banner-text{
+    margin-top: 15px;
+}
+.banner-img{
+    padding-bottom: 15px;
+}

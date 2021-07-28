@@ -19,6 +19,9 @@ p{
 span{
     color: #FABE4C;
 }
+img{
+    max-width: 100%;
+}
 
 /* header  */
 .banner-text{
